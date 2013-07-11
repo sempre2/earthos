@@ -1,6 +1,9 @@
 #labels Featured,Phase-Design,Phase-Deploy
-==Earth~Ship OperatingSystemz==
-=[#essIntro]=
+==EarthShip-OS==
+
+= Earthship-Enterprise =
+*EarthshipSolutions: Project ;"‪#‎HOME‬" *
+
 
 Global PEACE Freedom and Facilitation Hosts Trusted Networks // OPEN SOURSE FREELY accesable "Enterprises" for everyone!
 
@@ -12,6 +15,4 @@ EarthshipSolutions //Transition Programes  [MikeReynolds]Qualifier an LINKIN/ pr
 
 [OptionsPackages, imbeded into the betaStarterKits]
 
-
-= Earthship-Enterprise =
-*EarthshipSolutions: Project ;"‪#‎HOME‬" *
+=[#essIntro]=
