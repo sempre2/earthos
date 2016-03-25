@@ -1,0 +1,17 @@
+## EarthShip-OS ##
+
+# Earthship-Enterprise #
+**EarthshipSolutions: Project ;"‪#‎HOME‬"**
+
+
+Global PEACE Freedom and Facilitation Hosts Trusted Networks // OPEN SOURSE FREELY accesable "Enterprises" for everyone!
+
+Utimately leading us globaly to base level housing food water ... Whatever We The Peoples Of Earth Require, collectively we can do ANYTHING.
+
+Details are in packets across the globe dynamicaly reasembling
+
+EarthshipSolutions //Transition Programes  [MikeReynolds](MikeReynolds.md)Qualifier an LINKIN/ prefilter/
+
+[OptionsPackages, imbeded into the betaStarterKits]
+
+# [#essIntro](#essIntro.md) #
